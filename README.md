@@ -8,6 +8,6 @@
   <h3 align="center">Can it be done in SwiftUI?</h3>
 
   <div align="center">
-    <p align="center">Reproducing propular Ui and Animations in SwiftUI</p>
+    <p align="center">Reproducing popular UI and Animations in SwiftUI</p>
   </p>
 </div>
