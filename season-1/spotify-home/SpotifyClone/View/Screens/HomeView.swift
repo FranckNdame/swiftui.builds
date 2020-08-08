@@ -12,10 +12,7 @@ struct HomeView: View {
     @State var showStatusBarBackground: Bool = false
     var body: some View {
         ZStack (alignment: .top){
-            
-            
             ScrollView {
-                
                 VStack {
                     HStack {
                         Spacer()
@@ -56,8 +53,6 @@ struct HomeView: View {
             
         }
         .preferredColorScheme(.dark)
-        
-        
     }
 }
 
