@@ -9,5 +9,6 @@
 
   <div align="center">
     <p align="center">Reproducing popular UI and Animations in SwiftUI</p>
+   <p align="center">Videos coming soon...</p>
   </p>
 </div>
