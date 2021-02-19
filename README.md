@@ -15,7 +15,7 @@
   <div>
 </div>
 <a href="https://github.com/FranckNdame/swiftui.builds/tree/master/clubhouse">View source code 🔎</a>
-<br />
+<br /><br />
 <img src="images/club-apartment-preview.png" alt="Logo" width="100%">
     
     
@@ -29,7 +29,7 @@
   <div>
 </div>
 <a href="https://github.com/FranckNdame/swiftui.builds/tree/master/spotify-home">View source code 🔎</a>
-<br />
+<br /><br />
 <img src="images/spotify-clone-preview.png" alt="Logo" width="100%">
     
 <hr />
@@ -42,5 +42,5 @@
   <div>
 </div>
 <a href="https://github.com/FranckNdame/swiftui.builds/tree/master/tinder-swipe">View source code 🔎</a>
-<br />
+<br /><br />
 <img src="images/tinder-clone-preview.png" alt="Logo" width="100%">
