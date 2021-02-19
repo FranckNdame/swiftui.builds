@@ -28,6 +28,7 @@
   <div>
 </div>
 <a href="https://github.com/FranckNdame/swiftui.builds/tree/master/clubhouse">View source code 🔎</a>
+<a href="https://www.figma.com/file/8DwfJi51F88IW1xNVrDMP4/Clubapartment?node-id=0%3A1">View Figma design 🎨</a>
 <br /><br />
 <img src="images/club-apartment-preview.png" alt="Logo" width="100%">
     
