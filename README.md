@@ -14,7 +14,10 @@
     <p>Drop-in audio chat</p>
   <div>
 </div>
+<a href="https://github.com/FranckNdame/swiftui.builds/tree/master/clubhouse">View source code 🔎</a>
+<br />
 <img src="images/club-apartment-preview.png" alt="Logo" width="100%">
+    
     
 <hr />
 
@@ -25,6 +28,8 @@
     <p>Music app</p>
   <div>
 </div>
+<a href="https://github.com/FranckNdame/swiftui.builds/tree/master/spotify-home">View source code 🔎</a>
+<br />
 <img src="images/spotify-clone-preview.png" alt="Logo" width="100%">
     
 <hr />
@@ -36,4 +41,6 @@
     <p>Dating app</p>
   <div>
 </div>
+<a href="https://github.com/FranckNdame/swiftui.builds/tree/master/tinder-swipe">View source code 🔎</a>
+<br />
 <img src="images/tinder-clone-preview.png" alt="Logo" width="100%">
