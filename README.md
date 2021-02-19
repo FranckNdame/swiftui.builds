@@ -23,11 +23,12 @@
 <div  style="display: inline-flex;">
   <img src="images/ca-app-icon.png" alt="Logo" width="90">
   <div>
-    <h3>Clubapartment</h3>
+    <h3>Clubhouse</h3>
     <p>Drop-in audio chat</p>
   <div>
 </div>
 <a href="https://github.com/FranckNdame/swiftui.builds/tree/master/clubhouse">View source code 🔎</a>
+<br/>
 <a href="https://www.figma.com/file/8DwfJi51F88IW1xNVrDMP4/Clubapartment?node-id=0%3A1">View Figma design 🎨</a>
 <br /><br />
 <img src="images/club-apartment-preview.png" alt="Logo" width="100%">
