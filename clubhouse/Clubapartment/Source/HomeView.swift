@@ -51,47 +51,6 @@ private struct HomeNavigationSection: View {
     }
 }
 
-private struct TestSection: View {
-    var body: some View {
-        VStack {
-            HStack {
-                VStack {
-                    HStack {
-                        Text("Hello world! 🔎")
-                        Text("Welcome to Club apartment. We hope you enjoy your stay ✌🏾")
-                    }
-                }
-                Spacer()
-                ForEach(0 ..< 5) { item in
-                    RoundedRectangle(cornerRadius: 25.0).foregroundColor(.red)
-                        .frame(width: 200, height: 300, alignment: .center)
-                        .padding().padding([.vertical, .leading], 45)
-                }
-            }
-        }
-    }
-}
-
-private struct AnotherTestSection: View {
-    
-    var body: some View {
-        VStack {
-            HStack {
-                HStack {
-                    VStack {
-                        Text("Hello world!")
-                        Text("This should work!")
-                    }
-                }
-            }
-        }
-    }
-}
-
-
-
-
-
 private struct EventsSection: View {
     var body: some View {
         HStack {
