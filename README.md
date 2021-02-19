@@ -67,7 +67,7 @@
 * [ ] Airbnb
 * [ ] ???
     
-## ❤️ Contributing
+## 🤝 Contributing
 This is an open source project, so feel free to contribute. How?
 - Open an [issue](https://github.com/FranckNdame/swiftui.builds/issues/new). 
 - Send feedback via [email](mailto://franck.mpouli@gmail.com).
