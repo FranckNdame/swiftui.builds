@@ -2,13 +2,12 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/cibdisu.png" alt="Logo" width="100%">
+    <img src="images/swiftui.builds-banner.png" alt="Logo" width="100%">
   </a>
 
-  <h3 align="center">Can it be done in SwiftUI?</h3>
+  <h3 align="center">swiftui.builds</h3>
 
   <div align="center">
-    <p align="center">Reproducing popular UI and Animations in SwiftUI</p>
-   <p align="center">Videos coming soon...</p>
+    <p align="center">building cool stuff with swiftui 😎</p>
   </p>
 </div>
