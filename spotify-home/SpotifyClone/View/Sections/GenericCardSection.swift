@@ -11,7 +11,7 @@ struct GenericCardSection: View {
     var data: [GenericContent]
     var body: some View {
         ScrollView(.horizontal, showsIndicators: false) {
-            HStack(spacing: 16) {
+            HStack(alignment: .firstTextBaseline, spacing: 16) {
                 ForEach(data) { item in
                     GenericCard(data: item)
                 }
