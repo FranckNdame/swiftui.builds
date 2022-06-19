@@ -19,13 +19,11 @@ struct TabBar: View {
                 
                 // Home Tab
                 NavigationView {
-                    ZStack {
                         ZStack(alignment: .bottom) {
                             HomeView()
                             NowPlayingView()
                                 .onTapGesture {withAnimation {showPlayer.toggle()}}
                         }
-                    }
                     .navigationBarHidden(true)
                 }
                 .tabItem {
